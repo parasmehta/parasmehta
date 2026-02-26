@@ -1,5 +1,3 @@
-## Paras Mehta
-
 AI Engineer at the [AI Service Centre](https://hpi.de), Hasso Plattner Institute, 
 University of Potsdam. PhD in Computer Science from Freie Universität Berlin 
 (data mining, NLP, information retrieval).
