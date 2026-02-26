@@ -1,5 +1,13 @@
-## Hi there 👋
+## Paras Mehta
 
+AI Engineer at the [AI Service Centre](https://hpi.de), Hasso Plattner Institute, 
+University of Potsdam. PhD in Computer Science from Freie Universität Berlin 
+(data mining, NLP, information retrieval).
+
+Research interests: continual learning, multimodal AI, applied NLP.
+
+[Google Scholar](https://scholar.google.com/citations?user=wzsXziwAAAAJ) · 
+[LinkedIn](https://www.linkedin.com/in/pmehtaeu)
 <!--
 **parasmehta/parasmehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
